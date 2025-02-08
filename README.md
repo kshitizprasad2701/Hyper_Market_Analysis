@@ -1,6 +1,6 @@
 # MS EXCEL- Project_1
 
-## 🚀 Freshco Hypermarket Data Analysis Project: Unlocking Insights with Excel & Visualization
+## 🚀 Freshco Hypermarket Project: Unlocking Insights with Excel & Visualization
 
 I recently completed an exciting data analysis project, diving into Freshco Hypermarket’s delivery data to extract actionable insights.
 
